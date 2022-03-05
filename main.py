@@ -1,6 +1,6 @@
 """Modulo para probar todo"""
 
-from lista import List
+from List import List
 from Node import Node
 
 
